@@ -6,6 +6,7 @@ Este proyecto consiste en un análisis estadístico realizado en **Python** util
 ## 📊 Estructura del Repositorio
 
 TITANIC-ANALYSIS/
+
 ├── titanic.csv          # Dataset original{
 
 ├── analitica_data.ipynb # Cuaderno con el código y gráficas
